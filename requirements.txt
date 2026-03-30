@@ -1,0 +1,6 @@
+eurostat
+pandas
+plotly
+kaleido
+jupyter
+notebook
